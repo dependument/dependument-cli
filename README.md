@@ -19,3 +19,9 @@ This command reads dependencies from `package.json` and outputs the dependencies
     --source [package.json]
     
 Specify the file to source the dependencies from. This defaults to the `package.json` file if you don't specify a source.
+
+#### Output
+
+    --output [DEPENDENCIES.md]
+    
+Specify the file to output the dependencies to. This defaults to `DEPENDENCIES.md` if you don't specify a file.
