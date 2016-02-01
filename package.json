@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/dependument/dependument-cli.git"
   },
-  "author": "",
+  "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/dependument/dependument-cli/issues"
