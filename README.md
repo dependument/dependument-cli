@@ -8,6 +8,8 @@ You can install the [npm package](https://www.npmjs.com/package/dependument-cli)
 
     $ npm install -g dependument-cli
 
+You will need to have administrative privileges for this, because it has to be installed globally. So either run the terminal as an administrator, or use `sudo`.
+
 ## Usage
 
 The basic usage of the CLI is a simple, parameterless command:
