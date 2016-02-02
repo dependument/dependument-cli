@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dependument/dependument-cli",
   "dependencies": {
-    "dependument": "^0.1.2-beta3"
+    "dependument": "^0.1.2-beta4"
   }
 }
