@@ -22,7 +22,7 @@ The basic usage of the CLI is a simple, parameterless command:
 
     $ dependument
 
-This command reads dependencies from `package.json` and outputs the dependencies to `DEPENDENCIES.md`. (To specify these further, you can use arguments.)
+This command reads dependencies from `package.json` and outputs the dependencies to `DEPENDENCIES.md`.
 
 ## Licence
 Dependument is (un)licensed under [The Unlicense](http://unlicense.org/). Do what you like with it.
