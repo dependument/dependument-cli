@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 (function() {
   var Dependument = require('dependument').Dependument;
 
