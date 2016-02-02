@@ -1,8 +1,8 @@
 var Dependument = require('dependument').Dependument;
 
 var d = new Dependument({
-  source: ' ',
-  output: 'bla.txt'
+  source: 'package.json',
+  output: 'DEPENDENCIES.md'
 });
 
-d.writeOutput();
+d.process();
