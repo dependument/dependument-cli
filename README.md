@@ -26,3 +26,5 @@ This command reads dependencies from `package.json` and outputs the dependencies
 
 ## Licence
 Dependument is (un)licensed under [The Unlicense](http://unlicense.org/). Do what you like with it.
+
+To see the full license text included with the project, you can read the [LICENSE file](/LICENSE).
