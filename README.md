@@ -10,6 +10,9 @@ You can install the [npm package](https://www.npmjs.com/package/dependument-cli)
 
 You will need to have administrative privileges for this, because it has to be installed globally. So either run the terminal as an administrator, or use `sudo`.
 
+### Why does it need administrative privileges to be installed?
+dependument-cli itself doesn't need any administrative privileges. npm requires administrator privileges to install a package globally.
+
 ## Usage
 
 The basic usage of the CLI is a simple, parameterless command:
