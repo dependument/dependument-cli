@@ -1,1 +1,1 @@
-var dependument = require('dependument');
+var Dependument = require('dependument').Dependument;
