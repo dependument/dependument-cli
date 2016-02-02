@@ -20,6 +20,6 @@ dependument-cli needs to be installed globally (with the `-g` argument) so that 
 
 The basic usage of the CLI is a simple, parameterless command:
 
-    dependument
+    $ dependument
 
 This command reads dependencies from `package.json` and outputs the dependencies to `DEPENDENCIES.md`. (To specify these further, you can use arguments.)
