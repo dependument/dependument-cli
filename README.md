@@ -4,8 +4,6 @@
 
 ## Usage
 
-### Simple
-
 The basic usage of the CLI is a simple, parameterless command:
 
     dependument
